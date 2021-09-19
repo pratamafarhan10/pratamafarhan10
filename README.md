@@ -18,7 +18,7 @@ Hello everyone i'm Farhan, i'm an undergraduate student from Telkom University B
 * Internshala Student Partner-16 -->
 ## ⚡ Technologies
 Here are a few technologies i have used :
-- Front-end development using **HTML, Javascript, CSS, Bootstrap, Vue JS (still learning)**
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, Tailwind, Vue JS (still learning)**
 - Backend development using **PHP, Laravel**
 - Database using **MySql, Firebase**
 ## Hello World!! 🤔
