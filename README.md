@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://c.tenor.com/dDmTwMwuSywAAAAC/pokemon-charmander.gif' width='200"'>
+<img align='right' src='https://c.tenor.com/-z2KfO5zAckAAAAM/hello-there-baby-yoda.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-pratamafarhan10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farhan-pratama-3aa99717a/)](https://www.linkedin.com/in/farhan-pratama-3aa99717a/)
 [![Gmail Badge](https://img.shields.io/badge/-pratamafarhan10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratamafarhan10@gmail.com)](mailto:mailharshkhatri@gmail.com) [![Instagram Badge](https://img.shields.io/badge/fprtm_-E4405F?style=for-the-badge&logo=instagram&logoColor=white
