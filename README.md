@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://c.tenor.com/dDmTwMwuSywAAAAC/pokemon-charmander.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-pratamafarhan10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farhan-pratama-3aa99717a/)](https://www.linkedin.com/in/farhan-pratama-3aa99717a/)
 [![Gmail Badge](https://img.shields.io/badge/-pratamafarhan10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratamafarhan10@gmail.com)](mailto:mailharshkhatri@gmail.com) [![Instagram Badge](https://img.shields.io/badge/fprtm_-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -23,7 +23,7 @@ Here are a few technologies i have used :
 - Database using **MySql, Firebase**
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- ⚡ Fun fact: Internet users blink less than usual.
+- ⚡ Fun fact: The most popular Tumblr is the official updates page of Minecraft.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=pratamafarhan10&hide=["issues"]&show_icons=true)
 
