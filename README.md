@@ -17,11 +17,11 @@ Hello everyone i'm Farhan, i'm an fresh graduate from Telkom University Bandung 
 * Internshala Student Partner-16 -->
 ## ⚡ Technologies
 Here are a few technologies i have used :
-- Front-end development using **HTML, Javascript, CSS, Bootstrap, Tailwind, Vue JS (still learning)**
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, Tailwind, Vue JS**
 - Backend development using **PHP, Laravel**
 - Database using **MySql, Firebase**
 ## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
+- 💬 Ask me about anything and everything.
 - ⚡ Fun fact: The most popular Tumblr is the official updates page of Minecraft.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=pratamafarhan10&hide=["issues"]&show_icons=true)
