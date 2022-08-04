@@ -3,10 +3,9 @@
 <img align='right' src='https://c.tenor.com/-z2KfO5zAckAAAAM/hello-there-baby-yoda.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-pratamafarhan10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farhan-pratama-3aa99717a/)](https://www.linkedin.com/in/farhan-pratama-3aa99717a/)
-[![Gmail Badge](https://img.shields.io/badge/-pratamafarhan10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratamafarhan10@gmail.com)](mailto:mailharshkhatri@gmail.com) [![Instagram Badge](https://img.shields.io/badge/fprtm_-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/fprtm_/)
+[![Gmail Badge](https://img.shields.io/badge/-pratamafarhan10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratamafarhan10@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
-Hello everyone i'm Farhan, i'm an undergraduate student from Telkom University Bandung Indonesia, currently taking bachelor degree in information system. I have been learning about web development for 1 year. I'm eager to learn about product development and web development
+Hello everyone i'm Farhan, i'm an fresh graduate from Telkom University Bandung Indonesia majoring in information system. I have been learning about web development for 2 year. I'm eager to learn about product development and web development
 <!-- ## 👯 Communities
 * DSC Lead
 * Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes
