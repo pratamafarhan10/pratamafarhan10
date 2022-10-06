@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-pratamafarhan10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farhan-pratama-3aa99717a/)](https://www.linkedin.com/in/farhan-pratama-3aa99717a/)
 [![Gmail Badge](https://img.shields.io/badge/-pratamafarhan10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratamafarhan10@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
-Hello everyone i'm Farhan, i'm an fresh graduate from Telkom University Bandung Indonesia majoring in information system. I have been learning about web development for 2 year. I'm eager to learn about product development and web development
+I am a fresh graduate from Telkom University and a full-stack web developer with several projects. Experienced with software development life cycles like Scrum. Well-versed with numerous programming languages and frameworks including HTML, CSS, Javascript, PHP, MySQL, Firebase, Laravel, and Vue JS. Strong background in planning and analyzing products. Currently learning the Go programming language through an online course and writing articles about my learning progress on Medium.
 <!-- ## 👯 Communities
 * DSC Lead
 * Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes
@@ -18,8 +18,8 @@ Hello everyone i'm Farhan, i'm an fresh graduate from Telkom University Bandung 
 ## ⚡ Technologies
 Here are a few technologies i have used :
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, Tailwind, Vue JS**
-- Backend development using **PHP, Laravel**
-- Database using **MySql, Firebase**
+- Backend development using **PHP, Laravel, Golang**
+- Database using **MySql, Firebase, MongoDB**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - ⚡ Fun fact: The most popular Tumblr is the official updates page of Minecraft.
