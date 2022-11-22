@@ -2,8 +2,8 @@
 
 <img align='right' src='https://c.tenor.com/-z2KfO5zAckAAAAM/hello-there-baby-yoda.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-pratamafarhan10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farhan-pratama-3aa99717a/)](https://www.linkedin.com/in/farhan-pratama-3aa99717a/)
-[![Gmail Badge](https://img.shields.io/badge/-pratamafarhan10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratamafarhan10@gmail.com)](mailto:pratamafarhan10@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-pratama-3aa99717a/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratamafarhan10@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pratamafarhan10)
 [![Devpost Badge](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/pratamafarhan10?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
