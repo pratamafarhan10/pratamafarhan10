@@ -3,7 +3,9 @@
 <img align='right' src='https://c.tenor.com/-z2KfO5zAckAAAAM/hello-there-baby-yoda.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-pratamafarhan10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farhan-pratama-3aa99717a/)](https://www.linkedin.com/in/farhan-pratama-3aa99717a/)
-[![Gmail Badge](https://img.shields.io/badge/-pratamafarhan10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratamafarhan10@gmail.com)](mailto:mailharshkhatri@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pratamafarhan10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratamafarhan10@gmail.com)](mailto:pratamafarhan10@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pratamafarhan10)
+[![Devpost Badge](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/pratamafarhan10?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 I am a fresh graduate from Telkom University and a full-stack web developer with several projects. Experienced with software development life cycles like Scrum. Well-versed with numerous programming languages and frameworks including HTML, CSS, Javascript, PHP, MySQL, Firebase, Laravel, and Vue JS. Strong background in planning and analyzing products. Currently learning the Go programming language through an online course and writing articles about my learning progress on Medium.
 <!-- ## 👯 Communities
