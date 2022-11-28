@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratamafarhan10@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pratamafarhan10)
 [![Devpost Badge](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/pratamafarhan10?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)]([https://go.dev/](https://drive.google.com/file/d/15vWCFDCRjIT5iW0BKgKuOpzAvO_WurnW/view?usp=sharing))
+[Other portfolios](https://drive.google.com/file/d/15vWCFDCRjIT5iW0BKgKuOpzAvO_WurnW/view?usp=sharing)
 
 I am an Information Systems graduate and a software engineer experienced with software development life cycles like Scrum. Well-versed with numerous programming languages and frameworks including HTML, CSS, Javascript, PHP, MySQL, MongoDB, Firebase, Laravel, Vue JS, and Golang. Strong background in planning and analyzing products. Currently learning the Go programming language through an online course and writing articles about my learning progress on Medium.
 <!-- ## 👯 Communities
