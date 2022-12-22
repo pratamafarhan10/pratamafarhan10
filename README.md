@@ -8,7 +8,7 @@
 [![Devpost Badge](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/pratamafarhan10?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 [Other portfolios](https://drive.google.com/file/d/15vWCFDCRjIT5iW0BKgKuOpzAvO_WurnW/view?usp=sharing)
 
-I am an Information Systems graduate and a software engineer experienced with software development life cycles like Scrum. Well-versed with numerous programming languages and frameworks including HTML, CSS, Javascript, PHP, MySQL, MongoDB, Firebase, Laravel, Vue JS, and Golang. Strong background in planning and analyzing products. Currently learning the Go programming language through an online course and writing articles about my learning progress on Medium.
+I am an Information Systems graduate and a software engineer experienced with software development life cycles like Scrum. Well-versed with numerous programming languages and frameworks including HTML, CSS, Javascript, PHP, MySQL, MongoDB, Firebase, Laravel, Vue JS, and Golang. Strong background in planning and analyzing products. Currently learning the Redis through an online course and writing articles about my learning progress on Medium.
 <!-- ## 👯 Communities
 * DSC Lead
 * Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes
@@ -22,7 +22,7 @@ I am an Information Systems graduate and a software engineer experienced with so
 Here are a few technologies i have used :
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, Tailwind, Vue JS**
 - Backend development using **PHP, Laravel, Golang**
-- Database using **MySql, Firebase, MongoDB**
+- Database using **MySql, Firebase, MongoDB, Redis (Currently learning)**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - ⚡ Fun fact: The most popular Tumblr is the official updates page of Minecraft.
