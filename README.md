@@ -8,7 +8,7 @@
 [![Devpost Badge](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/pratamafarhan10?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 [Other portfolios](https://drive.google.com/file/d/15vWCFDCRjIT5iW0BKgKuOpzAvO_WurnW/view?usp=sharing)
 
-I am an Information Systems graduate and a software engineer experienced with software development life cycles like Scrum. Well-versed with numerous programming languages and frameworks including HTML, CSS, Javascript, PHP, MySQL, MongoDB, Firebase, Laravel, Vue JS, and Golang. Strong background in planning and analyzing products. Currently learning the Redis through an online course and writing articles about my learning progress on Medium.
+I am an Information Systems graduate and a software engineer experienced with software development life cycles like Scrum. Well-versed with numerous programming languages and frameworks including HTML, CSS, Javascript, PHP, MySQL, MongoDB, Firebase, Laravel, Vue JS, and Golang. Strong background in planning and analyzing products. Currently learning spring boot.
 <!-- ## 👯 Communities
 * DSC Lead
 * Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes
