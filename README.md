@@ -21,7 +21,7 @@ I am an Information Systems graduate and a software engineer experienced with so
 ## ⚡ Technologies
 Here are a few technologies i have used :
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, Tailwind, Vue JS**
-- Backend development using **PHP, Laravel, Golang**
+- Backend development using **PHP, Laravel, Golang, Java, Spring Boot**
 - Database using **MySql, Firebase, MongoDB, Redis (Currently learning)**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
